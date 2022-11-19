@@ -1,4 +1,4 @@
-# OIBSIP-_Task2 TRIBUTE PAGE
+# OIBSIP-_Task2 TRIBUTE PAGE🖱
 A tribute page is basically an overview of someone whom we admire in our life.A tribute (/ˈtrɪbjuːt/;[1] from Latin tributum, "contribution") is wealth, often in kind, that a party gives to another as a sign of submission, allegiance or respect. 
 
 
